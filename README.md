@@ -1,7 +1,7 @@
 # Advanced Programming Sem 6 All Problemset
-### Name: Adith M.R.
-### UID: 22BCS14695
-### Section: 601 B (Fast Learners)
+### Name: Abhay Kejriwal
+### UID: 22BCS14663
+### Section: 22BCS-FL-601 B 
 ---
 ## Day 1
 
